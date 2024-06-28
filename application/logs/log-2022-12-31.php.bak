@@ -1,0 +1,17 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-12-31 15:59:53 --> Severity: Notice --> Undefined index: foto E:\www\ci.id\ci\application\helpers\MY_html_helper.php 78
+ERROR - 2022-12-31 15:59:53 --> Severity: Notice --> Undefined index: foto E:\www\ci.id\ci\application\helpers\MY_html_helper.php 82
+ERROR - 2022-12-31 15:59:53 --> Severity: Notice --> Undefined index: foto E:\www\ci.id\ci\application\helpers\MY_html_helper.php 82
+ERROR - 2022-12-31 16:00:49 --> Severity: Notice --> Trying to access array offset on value of type null E:\www\ci.id\ci\application\helpers\MY_html_helper.php 78
+ERROR - 2022-12-31 16:00:49 --> Severity: Notice --> Trying to access array offset on value of type null E:\www\ci.id\ci\application\helpers\MY_html_helper.php 82
+ERROR - 2022-12-31 16:00:49 --> Severity: Notice --> Undefined index: foto E:\www\ci.id\ci\application\helpers\MY_html_helper.php 82
+ERROR - 2022-12-31 16:01:10 --> Severity: Notice --> Trying to access array offset on value of type null E:\www\ci.id\ci\application\helpers\MY_html_helper.php 78
+ERROR - 2022-12-31 16:01:10 --> Severity: Notice --> Trying to access array offset on value of type null E:\www\ci.id\ci\application\helpers\MY_html_helper.php 82
+ERROR - 2022-12-31 16:01:42 --> Severity: Notice --> Trying to access array offset on value of type null E:\www\ci.id\ci\application\helpers\MY_html_helper.php 78
+ERROR - 2022-12-31 16:01:42 --> Severity: Notice --> Trying to access array offset on value of type null E:\www\ci.id\ci\application\helpers\MY_html_helper.php 82
+ERROR - 2022-12-31 16:02:45 --> null
+ERROR - 2022-12-31 16:02:45 --> Severity: Notice --> Trying to access array offset on value of type null E:\www\ci.id\ci\application\helpers\MY_html_helper.php 79
+ERROR - 2022-12-31 16:02:45 --> null
+ERROR - 2022-12-31 16:02:45 --> Severity: Notice --> Trying to access array offset on value of type null E:\www\ci.id\ci\application\helpers\MY_html_helper.php 83
+ERROR - 2022-12-31 16:02:45 --> {"id":"66","name":"Elliot","visimisi":"Menjadikan sekolah lebih baik","period":"2023-2024","foto":"9a591ceb912c5c99aabc5b8217f91061.png","created":"2022-12-18","modified":"2022-12-26"}
